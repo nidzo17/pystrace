@@ -1,0 +1,1 @@
+Python tools for parsing and analysing output files of strace, a Linux utility for tracing system calls and signals.
